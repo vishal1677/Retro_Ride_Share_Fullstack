@@ -27,12 +27,10 @@ This project has the following functionality:
 ## Screenshots
 
 
-![app1](https://github.com/vishal1677/Tranning-and-Placement-Cell-Application/assets/97781791/c9d43113-5cb9-4399-9506-cd4b37ce7e3f)
+![app1](https://github.com/vishal1677/Retro_Ride_Share_Fullstack/assets/97781791/c943a856-dfe8-4bcb-a1ac-1fe6806f0966)
+![Screenshot (42)](https://github.com/vishal1677/Retro_Ride_Share_Fullstack/assets/97781791/33bda45c-6099-411a-9dfc-2384cc3267af)
+![Screenshot (46)](https://github.com/vishal1677/Retro_Ride_Share_Fullstack/assets/97781791/fb0bb2fe-c9e5-4d51-aefa-64667ae34c4d)
+![Screenshot (45)](https://github.com/vishal1677/Retro_Ride_Share_Fullstack/assets/97781791/de397d10-5102-4a32-bc79-3bb67f3c4901)
+![Screenshot (44)](https://github.com/vishal1677/Retro_Ride_Share_Fullstack/assets/97781791/0a94a386-66b1-4115-a542-93e149756c91)
+![Screenshot (43)](https://github.com/vishal1677/Retro_Ride_Share_Fullstack/assets/97781791/8f4129d5-1b38-4ff6-8d2b-8643f5abe7ac)
 
-![app2](https://github.com/vishal1677/Tranning-and-Placement-Cell-Application/assets/97781791/8a397ace-bd55-4775-89b6-edf1a30a5eae)
-
-![app3](https://github.com/vishal1677/Tranning-and-Placement-Cell-Application/assets/97781791/7bdc2149-3048-441f-91b6-44b58eccadc1)
-
-![app4](https://github.com/vishal1677/Tranning-and-Placement-Cell-Application/assets/97781791/104e7f12-9088-432e-a3ec-1520e24c1696)
-
-![app5](https://github.com/vishal1677/Tranning-and-Placement-Cell-Application/assets/97781791/92dee91b-6023-4682-b82a-5216f9ccaf2e)

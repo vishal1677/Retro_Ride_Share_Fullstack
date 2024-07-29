@@ -7,9 +7,9 @@ A platform for renting second-hand bicycles.
 
 This project has the following functionality:
 
-- Gives real-time update and notifications of incoming on-campus placement and internship drives
-- Admin can view various statistics related to placement and internship
-- Good looking UI
+- User can view and book cycles available for their time requirements
+- Book a session and pay on an hourly basis
+- Cycle owners have add,edit, and delete access to their cycles
 
 ## Demo Video
 
